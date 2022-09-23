@@ -1,5 +1,6 @@
 # Performance prediction in major league baseball by long short-term memory networks
 The article is published by International Journal of Data Science and Analytics (2022)
+
 Article link: https://doi.org/10.1007/s41060-022-00313-4
 
 ## Abstract
